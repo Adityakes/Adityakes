@@ -65,3 +65,28 @@ Data Structures & Algorithms
 Full-Stack Development
    ↓
 AI / ML
+
+---
+
+## 🧭 My Learning Journey
+
+| Stage | Focus |
+|------|------|
+| ✅ Completed | Python Fundamentals |
+| 🔄 Current | Python Practice & Problem Solving |
+| 🔄 Current | Data Structures & Algorithms |
+| 📚 Next | Full-Stack Development |
+| 🎯 Future | AI / ML Projects |
+
+---
+
+## 📈 What I'm Working On
+
+- 🐍 Writing clean and structured Python programs
+- 🧠 Improving problem-solving and logical thinking
+- 🔁 Practicing loops, conditions, functions and data structures
+- 🌐 Building practical web development projects
+- 📂 Maintaining a structured GitHub learning repository
+- 🚀 Turning learning concepts into projects
+
+---

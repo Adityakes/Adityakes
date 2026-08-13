@@ -45,9 +45,6 @@ Currently focused on strengthening my Python fundamentals, DSA, Git & GitHub, an
 ### 🐍 Python CLI To-Do Manager
 A command-line task management application built with Python featuring task creation, editing, completion, deletion, search, statistics and report generation.
 
-### 🌱 FarmSurplus
-A project focused on connecting surplus agricultural resources with potential users through a practical web-based solution.
-
 ### 🎮 Hangman Game
 A Python-based Hangman game created to practice programming fundamentals, conditions, loops and user interaction.
 
